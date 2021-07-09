@@ -12,6 +12,8 @@
 
 
 
+
+
 <img src="https://github.com/cpp-to-go/resources/blob/main/golang.png?raw=true" height="250px" />
 
 
@@ -106,7 +108,7 @@
 | :---: | :---: | :----: | :---: | :-------: | :---: | :---: |
 |   I   |  II   |  III   |       |    IV     |       |   V   |
 | 13.07 | 16.07 | 20.07  | 23.07 |   27.07   | 30.07 | 03.08 |
-| 20.07 | 23.05 | 27.07  |       |   03.08   |       | 10.08 |
+| 20.07 | 23.07 | 27.07  |       |   03.08   |       | 10.08 |
 
 
 
@@ -161,7 +163,7 @@ Cостояния этапа:
 
 ### Менторство
 
-1 падаван <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50px" /> - 1 ментор <img src="https://github.com/cpp-to-go/resources/blob/main/storm.png?raw=true" width="50px" />
+1+ падаван <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50px" /> - 1 ментор <img src="https://github.com/cpp-to-go/resources/blob/main/storm.png?raw=true" width="50px" />
 
 
 
@@ -172,8 +174,6 @@ Cостояния этапа:
 - пишите вопросы в общие тематические каналы 
 
   `#golang`, `#ci-cd`, `#project`, `#lessons`, `#random`
-
-
 
 У каждого обучающего есть **ментор**
 
@@ -220,6 +220,7 @@ Cостояния этапа:
 
 
 
+---
 
 
 
@@ -232,3 +233,39 @@ Cостояния этапа:
 
 
 
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/cpp-to-go/resources/main/goland.png" height="250px" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Снимок экрана 2021-07-09 в 18.46.14](/Users/vyacheslavv/Library/Application Support/typora-user-images/Снимок экрана 2021-07-09 в 18.46.14.png)
